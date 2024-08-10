@@ -1,4 +1,4 @@
-const courses = [
+const coursesData = [
   {
     id: 0,
     course_name: "Begineer guide to javascript",
@@ -12,4 +12,4 @@ const courses = [
     course_name: "Nodejs complete guide",
   },
 ];
-module.exports = courses;
+module.exports = coursesData;
